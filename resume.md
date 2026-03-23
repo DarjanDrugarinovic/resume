@@ -19,29 +19,29 @@
 ## **Education**
 
 **Master's Degree in Computer Software Engineering**\
-Faculty of Electronic Engineering, University of Niš — GPA: 10/10
+Faculty of Electronic Engineering, University of Niš - GPA: 10/10
 
 **Bachelor's Degree in Computer Science**\
-Faculty of Electronic Engineering, University of Niš — GPA: 8.5/10
+Faculty of Electronic Engineering, University of Niš - GPA: 8.5/10
 
 ---
 
 ## **Work Experience**
 
-### **Software Engineer — Ascalab**
-_July 2024 – Present_
+### **Software Engineer - Ascalab**
+_July 2024 - Present_
 
 **myQAbee AI**
 
-- **Agent** — Automatically tests your website, built with Next.js and .NET, powered by **MCP servers**, **local** and **cloud-based** LLMs _(Ollama, OpenAI)_
+- An agent that automatically tests your website, built with Next.js and .NET, powered by **MCP servers**, **local** and **cloud-based** LLMs _(Ollama, OpenAI)_
 
 **myQAbee**
 
-- **Platform** — Focused on automated testing and process automatization, built with React and .NET, powered by **MCP servers** and **Skills**
+- A platform focused on automated testing and process automatization, built with React and .NET, powered by **MCP servers** and **Skills**
 
 **Bridgehead**
 
-- **AI Assistant** — Medical documents system, including a chatbot feature, built with Next.js and .NET
+- A medical documents system with a chatbot feature, built with Next.js and .NET
 
 **Petrol IoT**
 
@@ -57,8 +57,8 @@ _July 2024 – Present_
 
 <div style="page-break-before: always;"></div>
 
-### **Software Engineer — Cubic Motion DSP**
-_Sep 2022 – July 2024_
+### **Software Engineer - Cubic Motion DSP**
+_Sep 2022 - July 2024_
 
 **Video Player Core**
 - Unified two separate libraries into a single codebase
@@ -80,7 +80,7 @@ Daily collaboration with international designers and developers; responsibilitie
 
 ---
 
-### **Full Stack Developer — Spremi Ispit** _(Personal Project)_
+### **Full Stack Developer - Spremi Ispit** _(Personal Project)_
 
 Educational platform providing students with unrestricted access to learning resources. Currently serves 2,000+ students across three faculties at the University of Niš, with ongoing expansion university-wide.
 
@@ -103,36 +103,30 @@ _Please check out **[spremiispit.com](https://spremiispit.com)**_
 
 ### **AI**
 
-**Sign Language Communication System** — Translates sign language to speech and vice versa. _(Python, CV2)_
-
-**Text Summarization with AI** — Scraped and summarized 500 news articles in Serbian and English. _(JavaScript, Python, Puppeteer, HuggingFace, spaCy, NLTK)_
-
-**Generative AI Video Tagging System** — AI model that curates unstructured video data, tagging and categorizing it into a searchable database with a user-friendly retrieval interface.
-
-**Video Super Resolution** — Generates high-resolution video from low-resolution input using super-resolution AI models.
+- **Sign Language Communication System** - Translates sign language to speech and vice versa. _(Python, CV2)_
+- **Text Summarization with AI** - Scraped and summarized 500 news articles in Serbian and English. _(JavaScript, Python, Puppeteer, HuggingFace, spaCy, NLTK)_
+- **Generative AI Video Tagging System** - AI model that curates unstructured video data, tagging and categorizing it into a searchable database with a user-friendly retrieval interface.
+- **Video Super Resolution** - Generates high-resolution video from low-resolution input using super-resolution AI models.
 
 ### **Web**
 
-**Taxi Dash** — Collects car sensor data to monitor vehicle and driver performance. _(React, TypeScript, MQTT)_
-
-**Social Network Bots** — Automated posting on Instagram and Facebook to drive sales for a personal business. _(Puppeteer)_
-
-**Product Sales Tracker** — Full-stack client application for tracking product sales. _(React, PHP/CodeIgniter, MySQL)_
-
-**Boiler Service** — Client-facing web application to showcase services.
+- **Taxi Dash** - Collects car sensor data to monitor vehicle and driver performance. _(React, TypeScript, MQTT)_
+- **Social Network Bots** - Automated posting on Instagram and Facebook to drive sales for a personal business. _(Puppeteer)_
+- **Product Sales Tracker** - Full-stack client application for tracking product sales. _(React, PHP/CodeIgniter, MySQL)_
+- **Boiler Service** - Client-facing web application to showcase services.
 
 ### **Mobile**
 
-**Cryptocurrency Wallet** — Mobile wallet application. _(React Native)_
+- **Cryptocurrency Wallet** - Mobile wallet application. _(React Native)_
 
 ### **VR**
 
-**Hoops VR** — Virtual reality basketball game. _(Babylon.js)_
+- **Hoops VR** - Virtual reality basketball game. _(Babylon.js)_
 
 ---
 
 ## **Languages**
 
-- **Serbian** — Native
-- **English** — Proficient
-- **Romanian** — Basic
+- **Serbian** - Native
+- **English** - Proficient
+- **Romanian** - Basic
